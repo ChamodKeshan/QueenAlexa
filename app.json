@@ -8,16 +8,5 @@
         "hypername": {
             "description": "Prefix of your bot"
         }
-    },
-    "buildpacks": [
-        {
-            "url": "heroku/nodejs"
-        },
-        {
-            "url": "https://github.com/PrajjwalDatir/heroku-buildpack-imagemagick.git"
-        },
-        {
-            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
-        }
-    ]
+    }
 }
