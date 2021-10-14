@@ -1,13 +1,33 @@
 {
-  "name": "Queen-Alexa",
+"name": "Queen-Alexa",
   "description": "Lightweight WhatsApp Bot",
   "repository": "https://github.com/HYPER-MOD/Queen-Alexa",
   "logo": "https://www.linkpicture.com/q/HYPER-MOD-LOGO.jpg",
   "keywords": ["bot", "whatsapp", "whatsapp-bot"],
     "env": {
-        "hypername": {
-            "description": "Prefix of your bot",
-          "required": true
+        "PREFIX": {
+            "description": "Prefix of your bot"
         },
+        "SESSION": {
+            "description": "A string for the session to be classified and to get access to the server endpoints"
+        },
+        "MODS": {
+            "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
+            "required": false
+        },
+        "MONGO_URI": {
+            "description": "A secret String for Mongodb Connection.(Required)"
+        }
     },
+    "buildpacks": [
+        {
+            "url": "heroku/nodejs"
+        },
+        {
+            "url": "https://github.com/PrajjwalDatir/heroku-buildpack-imagemagick.git"
+        },
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+        }
+    ]
 }
