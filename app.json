@@ -6,7 +6,8 @@
   "keywords": ["bot", "whatsapp", "whatsapp-bot"],
     "env": {
         "hypername": {
-            "description": "Prefix of your bot"
+            "description": "Prefix of your bot",
+          "required": true
         },
     },
 }
