@@ -8,4 +8,5 @@
         "BOTNAME": {
             "description": "Prefix of your bot"
         }
+    }
 }
