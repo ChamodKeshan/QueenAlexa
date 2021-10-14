@@ -169,7 +169,7 @@ thumb = setting.thumb // edit di setting.json
 
 fake = setting.fake // edit di setting.json
 img = setting.img // edit di setting.json
-botname = this.client.config.botname // edit di setting.json
+botname = ammata // edit di setting.json
 ownername = setting.ownername // edit di setting.json
 
 cr = setting.cr // edit di setting.json
