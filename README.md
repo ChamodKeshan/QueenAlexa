@@ -1,9 +1,9 @@
-# hyper-bot v3
+# Queen Alexa
 
-WhatsApp bug Bot
+WhatsApp Bot
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HYPER-MOD/Queen-Alexa)
-# ```SELF-BUG-BOT```
+# ```ALEXA-BUG-BOT```
 <p align="center">
 <a href="https://github.com/HYPER-MOD/followers"><img title="Followers" src="https://img.shields.io/github/followers/HYPER-MOD?color=red&style=flat-square"></a>
 <a href="https://github.com/HYPER-MOD/Queen-Alexa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HYPER-MOD/bug-bot?color=blue&style=flat-square"></a>
@@ -32,6 +32,8 @@ WhatsApp bug Bot
 ## `SETTING`
 
 - Owner number [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L4)
+- Owner Name [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L14)
+- Bot Name [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L15)
 
 ## `CHANGE DYNO`
 
@@ -40,7 +42,7 @@ Off in web ny | ඔෆ් කරන්න web එක | turn off web button.
 ----------
 
 <p align="center">
-  <a href="https://youtube.com/c/HYPERMOD"><img src="https://a.top4top.io/p_20888ybra1.jpg" />
+  <a href="https://youtube.com/c/HYPERMOD"><img src="https://i.ibb.co/TPqc8cv/Screenshot-2021-10-14-12-00-45-610-com-android-chrome.jpg" />
 </p>
 
 ## ```HOW TO DEPLOY```
@@ -50,7 +52,7 @@ Off in web ny | ඔෆ් කරන්න web එක | turn off web button.
 ----------
 
 <p align="center">
-  <a href="https://youtube.com/c/HYPERMOD"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
+  <a href="https://youtube.com/c/HYPERMOD"><img src="https://i.ibb.co/ZcnxZRR/20211014-132555.jpg" />
 </p>
 
 
