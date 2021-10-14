@@ -27,7 +27,7 @@ WhatsApp bug Bot
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/HYPER-MOD/bug-bot/blob/main/media/hypermod.json#L1)
+[`Click Here`](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/session.json#L1)
 
 ## `SETTING`
 
