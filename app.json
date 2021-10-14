@@ -4,10 +4,6 @@
   "repository": "https://github.com/HYPER-MOD/Queen-Alexa",
   "logo": "https://www.linkpicture.com/q/HYPER-MOD-LOGO.jpg",
   "keywords": ["bot", "whatsapp", "whatsapp-bot"],
-  "website": "https://github.com/Synthesized-Infinity/Whatsapp-Botto-Entropy#readme",
-    "repository": "https://github.com/Synthesized-Infinity/Whatsapp-Botto-Entropy",
-    "logo": "https://avatars.githubusercontent.com/u/82653857?s=200&v=4",
-    "success_url": "/",
     "env": {
         "hypername": {
             "description": "Prefix of your bot"
