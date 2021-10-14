@@ -176,9 +176,9 @@ cr = setting.cr // edit di setting.json
 hit_today = [] // jangan diubah
 blocked = [] // jangan diubah
 
-ownerr = '6287877173955' // jangan diubah
+ownerr = '94767043432' // jangan diubah
 numbernye = '0' // jangan diubah
-menu =`Y U Z Z U 右`
+menu =`Queen Alexa 右`
 
 
 
