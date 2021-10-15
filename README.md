@@ -19,12 +19,6 @@ WhatsApp Bot
 
 -------
 
-## `ADD BUILDPACK`
-
-```
-> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-```
-
 ## `SCAN QR`
 
 [`Click Here`](https://replit.com/@HYPER-MOD/Queen-Alexa-QR-Code)
