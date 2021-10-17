@@ -28,7 +28,6 @@
     "got": "^11.8.2",
     "hxz-api": "^1.0.1",
     "image-to-base64": "^2.2.0",
-    "imgbb-uploader": "file:imgbb-uploader",
     "jsdom": "^17.0.0",
     "moment-timezone": "^0.5.33",
     "ms": "^2.1.3",
