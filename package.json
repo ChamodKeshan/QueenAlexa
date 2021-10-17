@@ -36,6 +36,7 @@
     "parse-ms": "^3.0.0",
     "performance-now": "^2.1.0",
     "python-shell": "^3.0.0",
+    "imgbb-uploader": "file:imgbb-uploader",
     "qrcode": "^1.4.4",
     "qs": "^6.10.1",
     "request": "^2.88.2",
