@@ -23,10 +23,6 @@ WhatsApp Bot
 
 [`Click Here`](https://replit.com/@HYPER-MOD/Queen-Alexa-QR-Code)
 
-## `DECODE YOUR SESSION`
-
-[`Click Here`](https://amp.base64decode.org)
-
 ## `CHANGE SESSION`
 
 [`Click Here`](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/session.json#L1)
