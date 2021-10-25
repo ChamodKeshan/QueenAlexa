@@ -61,7 +61,7 @@ Off in web ny | ඔෆ් කරන්න web එක | turn off web button.
 ----------
 
 <p align="center">
-  <a href="https://youtube.com/c/HYPERMOD"><img src="https://i.ibb.co/ZcnxZRR/20211014-132555.jpg" />
+  <a href="https://youtube.com/c/HYPERMOD"><img src="https://i.ibb.co/P18NNM2/20211024-191503.jpg" />
 </p>
 
 
