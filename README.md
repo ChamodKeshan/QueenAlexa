@@ -6,7 +6,10 @@
         />
     </a>
 </p>
-[![How to install](https://media.giphy.com/media/Uhl43Qa5QbhKglX8DX/giphy.gif)](https://youtu.be/BcMIibIUmHc)
+<div align="center">
+  <p align="center">
+<img src="https://media.giphy.com/media/Uhl43Qa5QbhKglX8DX/giphy.gif" alt="GIF" width="128" height="128"/>
+</p>g
 WhatsApp Bot
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HYPER-MOD/Queen-Alexa)
