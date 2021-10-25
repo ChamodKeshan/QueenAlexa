@@ -56,12 +56,12 @@ Off in web ny | ඔෆ් කරන්න web එක | turn off web button.
 
 ## ```HOW TO DEPLOY```
 
-[`Click Here For Tutorial`](https://youtube.com/c/HYPERMOD)<br>
+[`Click Here For Tutorial`](https://youtu.be/BcMIibIUmHc)<br>
 
 ----------
 
 <p align="center">
-  <a href="https://youtube.com/c/HYPERMOD"><img src="https://i.ibb.co/P18NNM2/20211024-191503.jpg" />
+  <a href="https://youtu.be/BcMIibIUmHc"><img src="https://i.ibb.co/P18NNM2/20211024-191503.jpg" />
 </p>
 
 
