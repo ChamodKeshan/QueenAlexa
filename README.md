@@ -1,7 +1,7 @@
 # Queen Alexa
 
 <img
-        src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=If+It+Is+Difficult+To+Create+A+Bot,+Click+On+Gif."
+        src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Click+On+The+Gif+To+Install+The+Bot."
             alt="Typing SVG"
         />
     </a>
