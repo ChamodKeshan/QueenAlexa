@@ -1,6 +1,4 @@
 
-<img src="https://img.shields.io/badge/QUEEN%20ALEXA-MD%20VERSIONS-brightgreen?style=flat-square&logo=appveyor">
-
 
 <img
         src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=WELCOME+TO+THE+QUEEN+ALEXA+WA+BOT+PROJECT."
@@ -12,7 +10,10 @@
   <p align="center">
   <a href="https://github.com/ChamodKeshan"><img src="https://media.giphy.com/media/Uhl43Qa5QbhKglX8DX/giphy.gif" alt="GIF" width="128" height="128"/>
 </p>
+         
+<img src="https://img.shields.io/badge/QUEEN%20ALEXA-MD%20VERSIONS-brightgreen?style=flat-square&logo=appveyor">
 
+          **╭──⦁ Deploy ⦁──╮**
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ChamodKeshan/QueenAlexa)
 
 </a>
