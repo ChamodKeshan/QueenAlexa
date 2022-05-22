@@ -1,0 +1,29 @@
+{
+"name": "Queen-Alexa",
+  "description": "Lightweight WhatsApp Bot",
+  "repository": "https://github.com/ChamodKeshan/QueenAlexa",
+  "logo": "https://www.linkpicture.com/q/HYPER-MOD-LOGO.jpg",
+  "keywords": ["bot", "whatsapp", "whatsapp-bot"],
+
+    "buildpacks": [
+
+        {
+
+            "url": "heroku/nodejs"
+
+        },
+
+        {
+
+            "url": "https://github.com/ChamodKeshan/cpu-network.git"
+
+        },
+
+        {
+
+            "url": "https://github.com/ChamodKeshan/booster-queenax.git"
+
+        }
+
+    ]
+}

@@ -1,57 +1,69 @@
-
+# Queen Alexa
 
 <img
-        src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=WELCOME+TO+THE+QUEEN+ALEXA+WA+BOT+PROJECT."
+        src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Click+On+The+Gif+To+Install+The+Bot."
             alt="Typing SVG"
         />
     </a>
 </p>
 <div align="center">
   <p align="center">
-  <a href="https://github.com/ChamodKeshan"><img src="https://media.giphy.com/media/Uhl43Qa5QbhKglX8DX/giphy.gif" alt="GIF" width="128" height="128"/>
+  <a href="https://youtu.be/BcMIibIUmHc"><img src="https://media.giphy.com/media/Uhl43Qa5QbhKglX8DX/giphy.gif" alt="GIF" width="128" height="128"/>
 </p>
-         
-<img src="https://img.shields.io/badge/QUEEN%20ALEXA-MD%20VERSIONS-brightgreen?style=flat-square&logo=appveyor">
+WhatsApp Bot
 
-          **╭──⦁ Deploy ⦁──╮**
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ChamodKeshan/QueenAlexa)
+# ```ALEXA-BUG-BOT```
+<p align="center">
+<a href="https://github.com/ChamodKeshan/followers"><img title="Followers" src="https://img.shields.io/github/followers/ChamodKeshan?color=red&style=flat-square"></a>
+<a href="https://github.com/ChamodKeshan/QueenAlexa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ChamodKeshan/QueenAlexa?color=blue&style=flat-square"></a>
+<a href="https://github.com/ChamodKeshan/QueenAlexa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/HYPER-MOD/bug-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/HYPER-MOD/Queen-Alexa/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HYPER-MOD/bug-bot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/HYPER-MOD/Queen-Alexa"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+<a href="https://github.com/HYPER-MOD/Queen-Alexa/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeoneofc/Alphabot7?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHYPER-MOD%2Fbug-bot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/HYPER-MOD/Queen-Alexa/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+</p>
+<p align='center'>
+    </p>
 
-</a>
+-------
 
- # THIS BOT NOT ERROR.100% WORKING
- 
- ````queen alexa md version is button system.this bot owner is HYPER-MOD.now owner is ChamodKeshan.queen alexa is not error.100% good run.you are can use this bot.````
- 
- # HOW TO DEPLOY
- 
- ````queen alexa md version deploy with github account and heroku account connection.github account use with fork this repository.heroku account use with deploy you bot.````
- 
- # WARNING
- 
- ````you don't anything code change.video watching how to created Queen Alexa bot created.````
- 
-# ON/OFF SWITCH
+## `SCAN QR`
+
+[`Click Here`](https://replit.com/@HYPER-MOD/Queen-Alexa-QR-Code)
+
+## `CHANGE SESSION`
+
+[`Click Here`](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/session.json#L1)
+
+## `SETTING`
+
+- Owner number [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L4)
+- Owner Name [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L14)
+- Bot Name [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L15)
+
+## `CHANGE DYNO`
+
+Off in web ny | ඔෆ් කරන්න web එක | turn off web button.
+
 ----------
 
 <p align="center">
-  <a href="https://github.com/ChamodKeshan"><img src="https://i.ibb.co/TPqc8cv/Screenshot-2021-10-14-12-00-45-610-com-android-chrome.jpg" />
+  <a href="https://youtube.com/c/HYPERMOD"><img src="https://i.ibb.co/TPqc8cv/Screenshot-2021-10-14-12-00-45-610-com-android-chrome.jpg" />
+</p>
+
+## ```HOW TO DEPLOY```
+
+[`Click Here For Tutorial`](https://youtu.be/BcMIibIUmHc)<br>
+
+----------
+
+<p align="center">
+  <a href="https://youtu.be/BcMIibIUmHc"><img src="https://i.ibb.co/P18NNM2/20211024-191503.jpg" />
 </p>
 
 
-# NOT ERROR
- ```test
-   this bot not error.another error found 2.music and video error.music share with private.video not found.comming soon fix this error
-   ```
+## ```COFFEE```
 
-   
-````OWNER 2````
-   </a>
-  # contact me
-   ChamodKeshan *[ 2 owner ]*
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Findon-whatsapp-red.svg)](https://Wa.me/+94786825798)
-
-   
-   ![Metrics](https://avatars.githubusercontent.com/u/98629920?v=4)
-
-   # 🎵 playing
-[![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)]([https://open.spotify.com/user/on84l0syf9y9m2m84unz4h8uq](https://open.spotify.com/user/31xk3xaydc2wiyvkdipqrnv7qpxa))
+- [`SAWERIA`](https://saweria.co/hypermod)
