@@ -1,5 +1,3 @@
-
-
 <img
         src="https://readme-typing-svg.herokuapp.com/?size=29&width=800&lines=WELCOME+TO+THE+QUEEN+ALEXA+MD+VERSION+PROJECT."
             alt="Typing SVG"
@@ -32,7 +30,7 @@
 -------
 
 ## 🧚‍♀️𝘾𝙡𝙞𝙘𝙠 𝙃𝙚𝙧𝙚 𝙩𝙤 𝙨𝙘𝙖𝙣💫
-[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@HYPER-MOD/Queen-Alexa)
+[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://replit.com/@HYPER-MOD/Queen-Alexa-QR-Code)
 
 
 ## 🧚‍♀️𝘾𝙡𝙞𝙘𝙠 𝙃𝙚𝙧𝙚 𝙩𝙤 *Change you session*
