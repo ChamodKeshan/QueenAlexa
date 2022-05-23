@@ -1,6 +1,9 @@
 # 🧚‍♀️𝘾𝙡𝙞𝙘𝙠 𝙃𝙚𝙧𝙚 𝙩𝙤 𝘿𝙚𝙥𝙡𝙤𝙮💫
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ChamodKesha/QueenAlexa)
 
+# ⚙️𝘾𝙡𝙞𝙘𝙠 𝙃𝙚𝙧𝙚 𝙩𝙤 Change
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/ChamodKeshan/QueenAlexa/edit/main/Deploy.md)
+
 ````test
   you change with (https://heroku.com/deploy?template=https://github.com/ChamodKesha/QueenAlexa).type you repository link.
   ````
