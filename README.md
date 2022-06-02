@@ -30,7 +30,7 @@
 -------
 
 ## 🧚‍♀️𝘾𝙡𝙞𝙘𝙠 𝙃𝙚𝙧𝙚 𝙩𝙤 𝙨𝙘𝙖𝙣💫
-[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://replit.com/@HYPER-MOD/Queen-Alexa-QR-Code)
+[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://replit.com/@ChamodKeshan/Queen-Alexa-MD?v=1)
         
 ## 🧚‍♀️𝘾𝙡𝙞𝙘𝙠 𝙃𝙚𝙧𝙚 𝙩𝙤 *fork this repository*
 
