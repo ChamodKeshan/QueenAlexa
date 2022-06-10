@@ -38,13 +38,13 @@
         
 ## 🧚‍♀️𝘾𝙡𝙞𝙘𝙠 𝙃𝙚𝙧𝙚 𝙩𝙤 *Change you session*
 
-[Change](./session)
+[Change](./session.json)
 
 ## 🧚‍♀️𝘾𝙡𝙞𝙘𝙠 𝙃𝙚𝙧𝙚 𝙩𝙤 Change owner number💫
 
-- Owner number [Here](./settings)
-- Owner Name [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L14)
-- Bot Name [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L15)
+- Owner number [Here](./settings.json)
+- Owner Name [Here](./settings.json)
+- Bot Name [Here](./settings.json)
 
 ## 🧚‍♀️𝘾𝙡𝙞𝙘𝙠 𝙃𝙚𝙧𝙚 𝙩𝙤 𝘿𝙚𝙥𝙡𝙤𝙮💫
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/ChamodKeshan/QueenAlexa/blob/main/Deploy.md)
