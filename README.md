@@ -6,7 +6,7 @@
 </p>
 <div align="center">
   <p align="center">
-  <a href="https://github.com/ChamodKeshan/QueenAlexa/blob/main/Deploy.md"><img src="https://media.giphy.com/media/Uhl43Qa5QbhKglX8DX/giphy.gif" alt="GIF" width="128" height="128"/>
+  <a href="https://heroku.com/deploy"><img src="https://media.giphy.com/media/Uhl43Qa5QbhKglX8DX/giphy.gif" alt="GIF" width="128" height="128"/>
 </p>    <a/>
 <img src="https://img.shields.io/badge/QUEEN%20ALEXA-MD%20VERSIONS-brightgreen?style=flat-square&logo=appveyor">
 
@@ -47,7 +47,7 @@
 - Bot Name [Here](./settings.json)
 
 ## 🧚‍♀️𝘾𝙡𝙞𝙘𝙠 𝙃𝙚𝙧𝙚 𝙩𝙤 𝘿𝙚𝙥𝙡𝙤𝙮💫
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/ChamodKeshan/QueenAlexa/blob/main/Deploy.md)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://https://heroku.com/deploy)
 
   </a>
 
