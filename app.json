@@ -15,15 +15,20 @@
 
         {
 
-            "url": "https://github.com/ChamodKeshan/cpu-network.git"
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
 
         },
 
         {
 
-            "url": "https://github.com/ChamodKeshan/booster-queenax.git"
-
+            "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    
+            }
+  ],
+   "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
         }
-
-    ]
+    }
 }
